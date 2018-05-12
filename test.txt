@@ -1,3 +1,8 @@
 Hi i'm master branch
 
-Hi i'm second Branch // make conflict
+
+Hi i'm second Branch // merge modify
+
+
+
+
