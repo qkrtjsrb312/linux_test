@@ -1,7 +1,6 @@
 Hi i'm master branch
 
-
-Hi i'm second Branch // merge modify
+Hi i'm second Branch // master branch
 
 
 
